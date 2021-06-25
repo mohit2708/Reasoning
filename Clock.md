@@ -11,3 +11,10 @@
 * (c) 8:55 AM
 * (d) 8:05 AM
 
+## Ques. Reaching the place of meeting 20 minutes before 8.50 hrs Sumit found himself thirty minutes earlier than the man who came 40 minutes late.  What was the scheduled time of the meeting.
+* (a) 8:00
+* (b) 8:05
+* (c) 8:10
+* (d) 8:20
+
+
