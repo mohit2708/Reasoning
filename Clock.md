@@ -17,4 +17,17 @@
 * (c) 8:10
 * __(d) 8:20__
 
+## Ques. A class start at 10 a.m. and lasts till 1.27 p.m. Four periods are held during this interval. After every period, 5 minutes are given free to the students. The exact duration of each period is ...........
+* (a) 40 min
+* (b) __48 min__
+* (c) 51 min
+* (d) 53 min
+```php
+Solution:-
+From 10a.m. till 1.27 p.m., time = 3 hours 27 minutes = 3×60+27= 207 minutes
+Total free time=5×3=15 minutes
+Total time for the periods = 207−15=192 minutes
+Each period has time = 192/4 =48 minutes
+```
+
 
