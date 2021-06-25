@@ -4,3 +4,10 @@
 * (b) 7.05
 * (c) 8.00
 * (d) 7.55 
+
+## Ques. Raveena left house for the bus stop 15 min earlier than usual. It takes 10 min to reach the stop. She reached the stop at 8 : 40 am. What time does he usually leave home for the bus stop?
+* (a) 8:30 AM
+* (b) 8:45 AM
+* (c) 8:55 AM
+* (d) 8:05 AM
+
