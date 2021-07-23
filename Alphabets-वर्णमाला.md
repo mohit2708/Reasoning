@@ -24,7 +24,18 @@
 * N
 ```php
 Solution
-G = 7 
-Q = 17
+G = 7, Q = 17
 7+17/2 = 12(L)
+```
+
+### Ques. which letter is midway between the eighteenth letter from the left end and tenth letter from the right end of the given alphabet?<br>(दिए गए वर्णमाला के बाएं छोर से 18 बे  अक्षर और दायें छोर से 10 बे अक्षर के बीच में कौन सा अक्षर है?)
+* __No letter__
+* K
+* Q
+* R
+* None of these
+```php
+L = 18 , L = 18(Q)
+R = 10,  L = 27-10 = 17(R)
+No letter
 ```
