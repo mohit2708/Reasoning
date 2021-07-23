@@ -51,5 +51,17 @@ G -------> ?
 7   +7    14(N)
 M -------> T
 13   +7   20
+```
+
+### Ques. which letter is sixteenth to the right of the letter which is fourth to the left of I ?<br>(कौन सा अक्षर उस अक्षर के दायें से 16 वां है जो I के बायें से चौथा है?)
+* S
+* T
+* U
+* V
+```php
+Solution:- 
+5    4th    9
+E <--------- I 
 
 ```
+
