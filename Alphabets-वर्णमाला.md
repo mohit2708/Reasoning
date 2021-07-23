@@ -39,3 +39,17 @@ L = 18 , L = 18(Q)
 R = 10,  L = 27-10 = 17(R)
 No letter
 ```
+
+### Ques. which letter in the alphabet is as far from G as T is from M?<br>(वर्णमाला में कौन सा अक्षर G से उतना ही दूर है जितना T, M से है?)
+* M
+* __N__
+* O
+* P
+```php
+Solution:-
+G -------> ?
+7   +7    14(N)
+M -------> T
+13   +7   20
+
+```
