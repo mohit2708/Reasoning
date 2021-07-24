@@ -130,3 +130,14 @@ English mai last = right
 Z -------------> A = G
 ```
 
+### Ques. If the above alphabet is written in the reverse order, which will be the 5th letter to the left of the 9th letter from the right?<br>(यदि उपरोक्त वर्णमाला को उल्टे क्रम में लिखा जाए, तो दायें से नौवें अक्षर के बायें पाँचवाँ अक्षर कौन सा होगा?)
+* P
+* __N__
+* D
+* W
+* M
+```php
+Hindi mai pahle 
+English mai last
+5 + 9 = (दायें से 14) N
+```
