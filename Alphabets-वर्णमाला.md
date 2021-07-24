@@ -100,7 +100,33 @@ Hindi mai pahle = दायें
 English mai last = right
 19 + 6 = (दायें से 25) B
 ```
+### Ques. which of the following is the 12th letter to the left of the 17th letter from the left end?<br>(निम्नलिखित में से कौन-सा बायें छोर से 17वें अक्षर के बायें 12वाँ अक्षर है?)
+* __E__
+* F
+* G
+* T
+```php
+Hindi mai pahle = दायें
+English mai last = right
+17 - 12 = (बायें से 5) E
+```
+### Ques. if the order of the english alphabet is reversed, then which letter would be exactly in the middle?<br>(यदि अंग्रेजी वर्णमाला का क्रम उलट दिया जाए, तो ठीक बीच में कौन सा अक्षर होगा?)
+* L
+* M
+* N
+* __None Of These__
+```php
+  12          12
+------ M & N ------ 
+```
 
-
-
+### Ques. If the above alphabet is written in the reverse order, which will be the 8th letter to the right of O?<br>(यदि उपरोक्त वर्णमाला को उल्टे क्रम में लिखा जाए, तो O के दायें आठवां अक्षर कौन सा होगा?)
+* F
+* __G__
+* V
+* W
+```php
+       o -> 8 वां 
+Z -------------> A = G
+```
 
