@@ -77,5 +77,30 @@ E ---------> U
 P के दायें 8 वां = X
 ```
 
+### Ques. If the above alphabet are divided into two equal halves - form A to M and N to Z, which letter in the later half would be corresponding to the letter J?<>br>(यदि उपरोक्त वर्णमाला को दो बराबर भागों में विभाजित किया जाता है - A से M और N से Z तक, तो बाद के आधे में कौन सा अक्षर J अक्षर के अनुरूप होगा?)
+* Q
+* V
+* __W__
+* X
+```php
+  j(10) 
+A------>M
+   w
+N------>Z
+```
+
+### Ques. which letter will be 6th to the left of the 19th letter from the right end of the alphabet?<br>(वर्णमाला के दायें छोर से 19वें अक्षर के बायें से छठा अक्षर कौन सा होगा?)
+* M
+* N
+* X
+* Y
+* __None Of These__
+```php
+Hindi mai pahle = दायें
+English mai last = right
+19 + 6 = (दायें से 25) B
+```
+
+
 
 
