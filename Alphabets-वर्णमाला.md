@@ -66,3 +66,16 @@ E <--------- I
 E ---------> U 
 ```
 
+### Ques. which letter will be 8th to the right of the 3rd letter of the second half of the english alphabet?<br>(अंग्रेजी वर्णमाला के दूसरे भाग के तीसरे अक्षर के दायें से 8वां कौन सा अक्षर होगा?)
+* V
+* W
+* __X__
+* Y
+```php
+दूसरे भाग N to Z
+3rd letter: P
+P के दायें 8 वां = X
+```
+
+
+
